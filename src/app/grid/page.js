@@ -42,7 +42,7 @@ const GridPortfolio = () => {
         {/* Footer with a simple message */}
         <footer className="text-center mt-10">
           <p className="text-sm text-gray-400">
-            {lang === 'en' ? 'Created with ❤️ and a touch of magic.' : 'Creado con ❤️ y un toque de magia.'}
+            {lang === 'en' ? 'Created by Amira Figueroa Attiyeh, student of SowCoders.' : 'Hecho por Amira Figueroa Attiyeh estudiante de SowCoders.'}
           </p>
         </footer>
       </div>
